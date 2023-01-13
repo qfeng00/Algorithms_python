@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13d0a16a-77a1-4dba-a946-cd24d657df1a" name="Changes" comment="add new file">
-      <change beforePath="$PROJECT_DIR$/fds.py" beforeDir="false" afterPath="$PROJECT_DIR$/fds.py" afterDir="false" />
-    </list>
+    <list default="true" id="13d0a16a-77a1-4dba-a946-cd24d657df1a" name="Changes" comment="add new function f2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673590238266</updated>
       <workItem from="1673590239749" duration="719000" />
-      <workItem from="1673590971260" duration="418000" />
+      <workItem from="1673590971260" duration="748000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <created>1673590588661</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673591156553</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new function f2">
+      <created>1673591429551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673591429551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new file" />
+    <MESSAGE value="add new function f2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new function f2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithms_python$fds.coverage" NAME="fds Coverage Results" MODIFIED="1673591137065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
